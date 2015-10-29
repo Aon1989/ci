@@ -1,0 +1,25 @@
+
+body {
+	background-color: #EED2EE;
+}
+
+.trbg {
+	background-color: #DDA0DD;
+
+}
+
+@font-face {
+    font-family: DRdeco;
+    src: url('DRdeco.ttf');
+}
+body {
+    font-family: DRdeco;
+    src: url('DRdeco.ttf');
+    font-weight:bold;
+}
+h1 {
+    font-family: DRdeco;
+    src: url('DRdeco.ttf');
+    font-weight:bold;
+    color: #FFF68Fว
+}
